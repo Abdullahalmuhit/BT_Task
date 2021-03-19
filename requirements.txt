@@ -31,7 +31,7 @@ django-ratings==0.3.7
 django-redis==4.10.0
 django-smart-selects==1.5.4
 djangoql==0.13.1
-djangorestframework==3.9.1
+djangorestframework==3.11.2
 djangorestframework-jwt==1.11.0
 djangotoolbox==1.8.0
 djongo==1.2.33
