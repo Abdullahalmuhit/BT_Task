@@ -52,7 +52,7 @@ mysqlclient==1.4.2.post1
 packaging==19.1
 permission==0.4.1
 Pillow==5.2.0
-pipenv==2018.11.26
+pipenv==2022.1.8
 pluggy==0.12.0
 ply==3.11
 public==2019.4.13
